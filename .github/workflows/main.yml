@@ -1,4 +1,4 @@
-name: 早安
+name: moring
 on:
   schedule:
   - cron:  '0 0 * * *'
