@@ -1,4 +1,4 @@
-name: morning
+name: 早安
 on:
   schedule:
   - cron:  '0 0 * * *'
